@@ -1,8 +1,8 @@
-# Docker + Django
+# Django-Docker
 
 ## Install
     install Docker
 
 ## Docker Run
-    cd Docker-Django
+    cd Django-Docker
     docker-compose up
