@@ -24,6 +24,7 @@ class deleteItem(generics.DestroyAPIView):
     serializer_class = ItemSerializers
 
 def my_view(request):
-    return HttpResponse(json.dumps(data))
+    return HttpResponse("<h2>สวัสดี น้องกิ๊ก</h2>")
+
 
 # Create your views here.
