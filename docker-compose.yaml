@@ -8,6 +8,6 @@ services:
     volumes:
       - .:/code
     ports:
-      - "4444:8000"
+      - "8000:8000"
 
     
